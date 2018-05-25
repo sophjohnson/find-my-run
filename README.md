@@ -13,26 +13,26 @@ Running the User Interface
 ==========================
 Open Anaconda Navigator and click on Jupyter Notebook.
 
-![Anaconda Navigator](https://gitlab.com/kmacdone/projects/raw/master/finalProject/mdPics/anaconda.PNG?raw=true)
+![Anaconda Navigator](https://github.com/sophjohnson/find_my_run/blob/master/mdPics/anaconda.PNG)
 
 Navigate to wherever "findMyRun.ipynb" is stored and open it.
 
-![Opening Jupyter Notebook](https://gitlab.com/kmacdone/projects/raw/master/finalProject/mdPics/findMyRun.PNG?raw=true)
+![Opening Jupyter Notebook](https://github.com/sophjohnson/find_my_run/blob/master/mdPics/findMyRun.PNG)
 
 
 To open appmode to use the user interface, click on the appmode button.
 
-![Appmode Button](https://gitlab.com/kmacdone/projects/raw/master/finalProject/mdPics/appmode%20button.PNG?raw=true)
+![Appmode Button](https://github.com/sophjohnson/find_my_run/blob/master/mdPics/appmode%20button.PNG)
 
 Follow the usage instructions denoted in the app.
 
-![App Usage Instructions](https://gitlab.com/kmacdone/projects/raw/master/finalProject/mdPics/usage.PNG?raw=true)
+![App Usage Instructions](https://github.com/sophjohnson/find_my_run/blob/master/mdPics/usage.PNG)
 
 Running Other Jupyter Notebooks
 ===============================
 Other Jupyter notebooks can be run by starting at the top of the page and clicking run cell through all of the cells to load the necessary functions and values to run the program. Then then main function can be run by pressing the same button. 
 
-![Play Button](https://gitlab.com/kmacdone/projects/raw/master/finalProject/mdPics/play%20button.PNG?raw=true)
+![Play Button](https://github.com/sophjohnson/find_my_run/blob/master/mdPics/play%20button.PNG)
  
 This would be how you run the test function.
 
