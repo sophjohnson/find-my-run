@@ -4,7 +4,7 @@ Project Dependencies
 
 The project is set up in Jupyter notebooks, so there are several dependencies for the project to work. It uses an extension called appmode, so this cannot be run on the student machines. On your local machine, download and install Anaconda 3. After installation, open up the Anaconda prompt. Run the following command to install the appmode extension:
 
-![Anaconda Prompt](https://github.com/sophjohnson/find_my_run/mdPics/prompt.PNG?raw=true)
+![Anaconda Prompt](https://github.com/sophjohnson/find_my_run/mdPics/prompt.PNG)
  
 Once installation finishes, the app can be run. 
 
